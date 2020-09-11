@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Undergraduate Projects/Repositories
+title: Undergraduate Projects
 tags: [projects]
 ---
 
