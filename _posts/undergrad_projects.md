@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Undergraduate Projects/Repositories
-subtitle: 
 tags: [projects]
-comments: true
 ---
 
 The source code for a majority of these projects/repos is private due to either 
