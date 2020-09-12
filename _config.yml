@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - Browser IDE: "https://repl.it"
+    - In-Browser IDE: "https://repl.it"
     - Google Colab: "https://colab.research.google.com/"
 
 # --- Logo --- #
